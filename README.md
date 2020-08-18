@@ -1,6 +1,16 @@
 ffmpeg-muxer
 ============
 
+## 개인 Comment
+
+* ffmpeg Video and Audio muxer example
+
+## Todo
+
+- [ ] Visual Studio 기반으로 
+
+---
+
 Mux a video bitstream and a audio bitstream  together into one file based on FFmpeg
 
 ## Features
